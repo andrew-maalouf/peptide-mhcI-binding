@@ -5,4 +5,4 @@ Two models were developed: an allele-specific model to predict binding affinity 
 Future directions include exploring convolutional neural networks, attention mechanisms, and dimensionality reduction techniques to address challenges related to input size and model complexity. Integrating sequence- and structure-based approaches could further refine predictions. This research highlights the potential of biLSTM architectures for pan-specific HLA-peptide binding prediction while emphasizing the importance of robust datasets, advanced methodologies, and sufficient computational resources for achieving reliable and generalizable results.
 
 Here is a link to the final report:
-[Click Here](https://github.com/andrew-maalouf/peptide-mhcI-binding/blob/main/Andrew_Maalouf_report.pdf)
+[Click Here](https://github.com/andrew-maalouf/peptide-mhcI-binding/blob/919fe0777f416d2ac51ccdbf36cba2ce2d7946d1/Andrew_Maalouf_report.pdf)
