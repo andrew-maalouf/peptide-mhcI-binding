@@ -1,1 +1,8 @@
-# peptide-mhcI-binding
+# Exploration of Neural Networks for Peptide-MHC Class I Binding Prediction
+
+Peptide-MHC binding prediction is a rapidly advancing field in immunoinformatics, driving innovations in vaccine design and personalized immunotherapies. Many existing tools predict binding affinity and eluted ligand interactions using artificial neural networks, often relying on fixed-length input transformations through insertions or deletions. This project investigates the potential of bidirectional Long Short-Term Memory (biLSTM) networks to generalize across variable-length peptides without such transformations, focusing on the impact of different hyperparameters and encoding techniques.
+Two models were developed: an allele-specific model to predict binding affinity and a pan-specific model for eluted ligand interactions. Performance was evaluated using metrics such as AUC, Pearson correlation, and sensitivity. While the models demonstrated promise, limitations in dataset quality and computational resources hindered further optimization and training. The report also shares insights into the effect of hyperparameters on model performance and discusses techniques to enhance the current approach.
+Future directions include exploring convolutional neural networks, attention mechanisms, and dimensionality reduction techniques to address challenges related to input size and model complexity. Integrating sequence- and structure-based approaches could further refine predictions. This research highlights the potential of biLSTM architectures for pan-specific HLA-peptide binding prediction while emphasizing the importance of robust datasets, advanced methodologies, and sufficient computational resources for achieving reliable and generalizable results.
+
+Here is a link to the final report:
+[Click Here](https://github.com/andrew-maalouf/peptide-mhcI-binding/blob/main/Andrew_Maalouf_report.pdf)
