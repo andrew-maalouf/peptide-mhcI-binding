@@ -1,0 +1,5 @@
+species,allele,length,peptide,inequality,ic50,log50k
+human,HLA-A*74:01,9,KVVPRRKAK,=,551.0024754,0.42
+human,HLA-A*74:01,9,AFDLSFFLK,=,19999.92337,0.08
+human,HLA-A*74:01,9,QVPLRPMTY,=,19999.92337,0.08
+human,HLA-A*74:01,9,PIPVGDIYK,=,19999.92337,0.08
